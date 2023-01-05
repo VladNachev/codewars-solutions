@@ -1,4 +1,4 @@
-# CodeWars---Solutions
+# CodeWars---Solutions---Python
 My solutions for CodeWars - Python Tasks   
 https://www.codewars.com
    
